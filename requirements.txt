@@ -1,0 +1,10 @@
+langchain
+langsmith
+langgraph
+python-dotenv
+langchain-groq
+langchain_tavily
+langgraph-cli[inmem]
+youtube_transcript_api
+langchain_community
+streamlit
