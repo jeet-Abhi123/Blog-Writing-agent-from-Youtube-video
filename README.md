@@ -1,14 +1,11 @@
-
 ---
-title: Blog gneration agent from Youtube videos
+title: Blog generation agent from Youtube videos
 emoji: 🤖
 colorFrom: teal
 colorTo: blue
 sdk: docker        
 app_port: 8501   
 ---
-
-
 # Blog Generation from Youtube Video 
 
 ### 🎯 Goal
