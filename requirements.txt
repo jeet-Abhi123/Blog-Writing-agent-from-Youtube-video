@@ -1,7 +1,0 @@
-langchain
-langsmith
-langgraph
-python-dotenv
-langchain-groq
-langchain_tavily
-langgraph-cli[inmem]
